@@ -1,4 +1,4 @@
-# This application accepts user input and calculates average marks and determines the geade.The resuts are saved in a text file
+# This application accepts user input, calculates average marks and determines the grade.The results are saved in a text file.
 # create a class to store each student info
 class Student:
 
